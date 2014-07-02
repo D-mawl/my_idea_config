@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="libraryTable">
+    <library name="javaee">
+      <CLASSES>
+        <root url="file://D:/Java/javaEE6" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://D:/Java/javaEE6" recursive="false" />
+    </library>
+  </component>
+</application>
+

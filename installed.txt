@@ -1,0 +1,7 @@
+BrowseWordAtCaret
+CheckStyle-IDEA
+com.github.setial
+JavaDoc Sync Plugin 10
+Jindent - Source Code Formatter
+JRebelPlugin
+org.jetbrains.plugins.ruby

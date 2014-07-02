@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="DimensionService">
+    <location key="new project wizard.0.0.1366.768" x="308" y="44" />
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="524" y="115" />
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="682" y="303" />
+    <location key="#Project_Structure.0.0.1366.768" x="104" y="0" />
+    <location key="chooseDestDirectoryDialog.0.0.1366.768" x="482" y="154" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" x="198" y="0" />
+    <location key="OptionsEditor.0.0.1366.768" x="167" y="0" />
+    <location key="AndroidProcessChooserDialog.0.0.1366.768" x="538" y="143" />
+    <location key="#test.0.0.1366.768" x="412" y="0" />
+    <location key="AndroidExtendedDeviceChooserDialog.0.0.1366.768" x="438" y="150" />
+    <location key="#Browse_Repositories.0.0.1366.768" x="263" y="11" />
+    <location key="#Browse_JetBrains_Plugins_.0.0.1366.768" x="263" y="11" />
+    <location key="#Plugins.0.0.1366.768" x="263" y="11" />
+    <location key="svn.repositoryBrowser.0.0.1366.768" x="512" y="153" />
+    <location key="svn4idea.checkout.options.0.0.1366.768" x="425" y="218" />
+    <location key="svn.upgradeDialog.0.0.1366.768" x="482" y="258" />
+    <location key="NewModule_or_Project.wizard.0.0.1366.768" x="267" y="28" />
+    <location key="#Tomcat_Server.0.0.1366.768" x="450" y="222" />
+    <location key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog.0.0.1366.768" x="468" y="95" />
+    <location key="Maven.ArtifactSearchDialog.0.0.1366.768" x="213" y="17" />
+    <location key="ProcessPopupWindow.0.0.1366.768" x="433" y="124" />
+    <location key="findTextDialog.0.0.1366.768" x="467" y="112" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1366.768" x="488" y="92" />
+    <location key="com.intellij.testIntegration.createTest.CreateTestDialog.0.0.1366.768" x="426" y="108" />
+    <location key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog.0.0.1366.768" x="533" y="41" />
+    <location key="com.intellij.ide.passwordSafe.impl.providers.masterKey.ResetPasswordDialog.0.0.1366.768" x="448" y="268" />
+    <location key="Github.ShareDialog.0.0.1366.768" x="471" y="253" />
+    <location key="Github.UntrackedFilesDialog.0.0.1366.768" x="463" y="77" />
+    <location key="DiffWindow.0.0.1366.768" x="92" y="92" />
+    <location key="CommitChangelistDialog2.0.0.1366.768" x="413" y="93" />
+    <location key="git4idea.push.GitPushDialog.0.0.1366.768" x="283" y="81" />
+    <location key="com.intellij.persistence.run.ui.ObjectUiFactory#TextEditor.0.0.1366.768" x="435" y="250" />
+    <location key="#hibernate_demo_[test].0.0.1366.768" x="386" y="11" />
+    <location key="#Notifications.0.0.1366.768" x="437" y="97" />
+    <location key="#BuildArtifactsBeforeRunChooser.0.0.1366.768" x="524" y="150" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1366.768" x="413" y="199" />
+    <location key="RollbackChangesDialog.0.0.1366.768" x="462" y="90" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogintegrate.0.0.1366.768" x="321" y="255" />
+    <location key="#Compiler.0.0.1366.768" x="0" y="186" />
+    <location key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog.0.0.1366.768" x="345" y="69" />
+    <location key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey.0.0.1366.768" x="637" y="138" />
+    <location key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$1.0.0.1366.768" x="221" y="90" />
+    <location key="AbstractVcsHelper.FilterDialog.org.jetbrains.idea.svn.history.SvnVersionFilterComponent.0.0.1366.768" x="534" y="216" />
+    <location key="IgnoreUnversionedDialog.0.0.1366.768" x="494" y="277" />
+    <location key="IgnoredSettingsDialog.0.0.1366.768" x="542" y="232" />
+    <location key="svn.propertyDialog.0.0.1366.768" x="522" y="197" />
+    <location key="VCS.EditChangelistDialog.0.0.1366.768" x="513" y="232" />
+    <location key="#Live_Templates.0.0.1366.768" x="434" y="1" />
+    <location key="#JsonTest.shouldUserObjectConvertToJsonStringSuccessful.0.0.1366.768" x="432" y="44" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.1366.768" x="413" y="154" />
+    <location key="#JsonTest.0.0.1366.768" x="432" y="58" />
+    <location key="#Jetty_Server.0.0.1366.768" x="485" y="57" />
+    <location key="IdeErrosDialog.0.0.1366.768" x="239" y="178" />
+    <location key="#com.intellij.codeInsight.template.impl.EditVariableDialog.0.0.1366.768" x="401" y="270" />
+    <location key="org.jetbrains.idea.maven.utils.RepositoryAttachDialog.0.0.1366.768" x="241" y="271" />
+    <location key="#com.intellij.javaee.module.view.web.EditWebRootDialog.0.0.1366.768" x="484" y="289" />
+    <location key="com.intellij.openapi.vcs.changes.UnversionedViewDialog.0.0.1366.768" x="517" y="106" />
+    <location key="replaceTextDialog.0.0.1366.768" x="467" y="75" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1366.768" x="402" y="196" />
+    <location key="Subversion.BranchConfigurationDialog.0.0.1366.768" x="534" y="225" />
+    <location key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor.0.0.1366.768" x="263" y="0" />
+    <location key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog.0.0.1366.768" x="394" y="110" />
+    <location key="#com.intellij.debugger.ui.EvaluationDialog2.0.0.1366.768" x="352" y="255" />
+    <location key="svn.sslCredentialsDialog.0.0.1366.768" x="366" y="271" />
+    <location key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog.0.0.1366.768" x="344" y="70" />
+    <location key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog.0.0.1366.768" x="402" y="197" />
+    <location key="MultipleFileMergeDialog.0.0.1366.768" x="374" y="101" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.1366.768" x="298" y="234" />
+    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1366.768" x="92" y="92" />
+    <location key="StructurePopup.0.0.1366.768" x="487" y="190" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1366.768" x="538" y="126" />
+    <location key="svn.selectFilesDialog.0.0.1366.768" x="436" y="234" />
+    <location key="VCS.ChangelistChooser.0.0.1366.768" x="498" y="198" />
+    <location key="svn.passwordDialog.0.0.1366.768" x="469" y="269" />
+    <location key="#xdebugger.evaluate.0.0.1366.768" x="431" y="136" />
+    <location key="#Appearance.0.0.1366.768" x="458" y="68" />
+    <location key="#SQL_Dialects.0.0.1366.768" x="223" y="196" />
+    <size key="#Project_Structure.0.0.1366.768" width="1133" height="749" />
+    <size key="OptionsEditor.0.0.1366.768" width="1073" height="575" />
+    <size key="#test.0.0.1366.768" width="543" height="734" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1324" height="245" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1324" height="245" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1324" height="245" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1324" height="245" />
+    <size key="ProcessPopupWindow.0.0.1366.768" width="454" height="144" />
+    <size key="javadoc.popup.0.0.1366.768" width="602" height="420" />
+    <size key="GridCell.Tab.1.left.0.0.1366.768" width="1324" height="245" />
+    <size key="GridCell.Tab.1.center.0.0.1366.768" width="1324" height="245" />
+    <size key="GridCell.Tab.1.right.0.0.1366.768" width="1324" height="245" />
+    <size key="GridCell.Tab.1.bottom.0.0.1366.768" width="1324" height="245" />
+    <size key="#hibernate_demo_[test].0.0.1366.768" width="569" height="701" />
+    <size key="#Compiler.0.0.1366.768" width="1366" height="369" />
+    <size key="GridCell.Tab.2.left.0.0.1366.768" width="1324" height="245" />
+    <size key="GridCell.Tab.2.center.0.0.1366.768" width="1324" height="245" />
+    <size key="GridCell.Tab.2.right.0.0.1366.768" width="1324" height="245" />
+    <size key="GridCell.Tab.2.bottom.0.0.1366.768" width="1324" height="245" />
+    <size key="GridCell.Tab.3.left.0.0.1366.768" width="1324" height="269" />
+    <size key="GridCell.Tab.3.center.0.0.1366.768" width="1324" height="269" />
+    <size key="GridCell.Tab.3.right.0.0.1366.768" width="1324" height="269" />
+    <size key="GridCell.Tab.3.bottom.0.0.1366.768" width="1324" height="269" />
+    <size key="DebuggerActiveHint.0.0.1366.768" width="635" height="373" />
+    <size key="DiffWindow.0.0.1366.768" width="1182" height="544" />
+    <size key="#Live_Templates.0.0.1366.768" width="530" height="705" />
+    <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1366.768" width="1182" height="544" />
+    <size key="StructurePopup.0.0.1366.768" width="482" height="386" />
+    <size key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1366.768" width="340" height="608" />
+    <size key="XDebugger.FullValuePopup.0.0.1366.768" width="693" height="374" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog" state="0" />
+    <extendedState key="CommittedChanges.SplitterProportions.0" state="700" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.1" state="500" />
+    <extendedState key="DiffWindow" state="0" />
+    <extendedState key="CommittedChanges.SplitterProportions.1" state="500" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.0" state="300" />
+  </component>
+  <component name="LafManager">
+    <laf class-name="com.incors.plaf.alloy.AlloyIdea" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="log.debug.categories" value="" />
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="project.wizard.group" value="RUBY_MODULE" />
+    <property name="default.storage.format" value=".idea (directory based)" />
+    <property name="project.wizard.template" value="Maven" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/.IntelliJIdea14/config&#10;E:/WorkSpace/function/workassignment/workassignment.service/pom.xml&#10;E:/WorkSpace/function/workassignment/pom.xml&#10;E:/WorkSpace/staticresource&#10;E:/WorkSpace/module/valuechangerecord/pom.xml&#10;E:/WorkSpace/function/templatemanage/pom.xml&#10;E:/项目文档/规范/代码规范模板/checkStyle.xml&#10;E:/WorkSpace&#10;E:/WorkSpace/function/billbind/pom.xml&#10;E:/WorkSpace/function/serviceprice&#10;E:/WorkSpace/function/mytask&#10;E:/WorkSpace/main/target&#10;E:/WorkSpace/function/commercialaffairs&#10;E:/WorkSpace/module/filebase/filebase.baseservice&#10;E:/WorkSpace/function/commercialaffairs/commercialaffairs.service&#10;E:/WorkSpace/function/commercialaffairs/commercialaffairs.billservice&#10;E:/WorkSpace/function/commercialaffairs/commercialaffairs.taxservice&#10;E:/WorkSpace/function/commercialaffairs/commercialaffairs.webapp&#10;E:/WorkSpace/function/enterpriserelation/enterpriserelation.webapp&#10;E:/WorkSpace/function/enterpriserelation/enterpriserelation.service&#10;F:/intellij-javadocs.zip&#10;E:/IdeaProjects/hibernate_demo&#10;E:/WorkSpace/function/enterpriserelation&#10;E:/IdeaProjects/ruby&#10;E:/WorkSpace/Servers&#10;E:/WorkSpace/RemoteSystemsTempFiles&#10;E:/WorkSpace/.recommenders&#10;E:/WorkSpace/.metadata&#10;E:/WorkSpace/.idea&#10;E:/WorkSpace/platformsystem/src" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.7" />
+    <property name="java.module.default.source.root" value="src" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="file.colors.enable.non.project" value="Yellow" />
+    <property name="file.colors.enable.tests" value="Green" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="Non-Project Files" value="Yellow" />
+    <property name="Tests" value="Green" />
+    <property name="filter_non_existing" value="false" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="RunConfigurable.dividerProportion" value="0.3" />
+    <property name="ANDROID_TARGET_SELECTION_MODE_FOR_NEW_MODULE" value="Show device chooser dialog" />
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
+    <property name="create.project.preferred.importer" value="Eclipse" />
+    <property name="project.jdk.splitter" value="0.2" />
+    <property name="last.imported.location" value="E:/WorkSpace" />
+    <property name="eclipse.project.dir" value="E:\WorkSpace" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="1" />
+    <property name="AppServerDKsEditor.splitterProportion" value="0.3" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="test_tree_console_proprtion" value="0.2" />
+    <property name="junit_statistics_table_columnsWidth0" value="75" />
+    <property name="junit_statistics_table_columnsOrder0" value="0" />
+    <property name="junit_statistics_table_columnsWidth1" value="75" />
+    <property name="junit_statistics_table_columnsOrder1" value="1" />
+    <property name="junit_statistics_table_columnsWidth2" value="75" />
+    <property name="junit_statistics_table_columnsOrder2" value="2" />
+    <property name="junit_statistics_table_columnsWidth3" value="75" />
+    <property name="junit_statistics_table_columnsOrder3" value="3" />
+    <property name="junit_statistics_table_columnsWidth4" value="75" />
+    <property name="junit_statistics_table_columnsOrder4" value="4" />
+    <property name="junit_statistics_table_columnsWidth5" value="75" />
+    <property name="junit_statistics_table_columnsOrder5" value="5" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.5" />
+    <property name="CommitChangeListDialog.DETAILS_SHOW_OPTION_" value="false" />
+    <property name="KEYMAP" value="line&#10;doc" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="FileTemplates.CurrentTab" value="Templates" />
+    <property name="FileTemplates.SelectedTemplate" value="Class" />
+    <property name="javascript.grunt_toolwindow_splitter" value="0.2" />
+    <property name="FindSplitterProportion" value="0.25" />
+    <property name="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$1.splitter" value="0.3" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="SingleInspectionProfilePanel.HORIZONTAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.49751243" />
+    <property name="PLUGIN_FILTER" value="javadoc&#10;format" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="1" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="export.settings.path" value="C:\Users\Administrator\.IntelliJIdea14\config\settings.jar" />
+    <property name="SpringBeansModulesPanel[0]" value="0.15491867" />
+    <property name="SpringBeansModulesPanel[1]" value="0.18382353" />
+    <property name="INSPECTION_FILTER_HISTORY" value="uid&#10;&quot;New in 13&quot;" />
+    <property name="FileStructurePopup.narrowDown" value="true" />
+    <property name="com.intellij.openapi.editor.actions.MultiplePasteAction$1.splitter" value="0.3" />
+    <property name="null.splitter" value="0.3" />
+    <property name="evlsprt3.IU-138.777" value="14" />
+  </component>
+</application>
+
