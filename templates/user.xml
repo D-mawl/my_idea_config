@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <templateSet group="user">
-  <template name="lzs" value="/**&#10; * 类注释&#10; * &lt;p&gt;&#10; * @verson:        V1.0&#10; * &lt;p&gt;&#10; * @author:        依山慕雪&#10; * &lt;p&gt;&#10; * @date:        $DATE$ $TIME$&#10; * &lt;p&gt; &#10; * @action:        新建&#10; */" description="lsz" toReformat="false" toShortenFQNames="true">
-    <variable name="DATE" expression="date()" defaultValue="2014/01/01" alwaysStopAt="true" />
-    <variable name="TIME" expression="time()" defaultValue="00:00:00" alwaysStopAt="true" />
+  <template name="lzs" value="/**&#10; * 类注释&#10; *&#10; * &lt;p&gt;&#10; * &lt;p&gt;&#10; * @版本:      seeon V1.0&#10; * &lt;p&gt;&#10; * @作者:       lishan&#10; * &lt;p&gt;&#10; * @日期:       $DATE$ $TIME$&#10; * &lt;p&gt;&#10; * @负责人:     lishan&#10; * &lt;p&gt;&#10; * @负责小组:&#10; * &lt;p&gt;&#10; * &lt;p&gt;&#10; */" description="lsz" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="HTML_TEXT" value="false" />
       <option name="HTML" value="false" />
@@ -22,13 +21,38 @@
       <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
-      <option name="JSP" value="false" />
       <option name="SQL" value="false" />
-      <option name="OGNL" value="false" />
+      <option name="JSP" value="false" />
       <option name="MAVEN" value="false" />
       <option name="ASPECTJ" value="false" />
       <option name="OTHER" value="false" />
     </context>
   </template>
+  <template name="list" value="List&lt;$T$&gt; $list$ = new ArrayList&lt;$T$&gt;();" toReformat="false" toShortenFQNames="true">
+    <variable name="T" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="list" expression="suggestVariableName()" defaultValue="list" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+      <option name="COMPLETION" value="true" />
+    </context>
+  </template>
+  <template name="map" value="Map&lt;$K$,$V$&gt; $map$ = new HashMap&lt;$K$,$V$&gt;();" toReformat="false" toShortenFQNames="true">
+    <variable name="K" expression="" defaultValue="String" alwaysStopAt="true" />
+    <variable name="V" expression="" defaultValue="Object" alwaysStopAt="true" />
+    <variable name="map" expression="suggestIndexName()" defaultValue="map" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+      <option name="COMPLETION" value="true" />
+    </context>
+  </template>
 </templateSet>
-

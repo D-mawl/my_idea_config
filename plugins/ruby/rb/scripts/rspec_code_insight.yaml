@@ -165,6 +165,7 @@ dynamic_members:
       instance_methods:
         should: RSpec::Expectations::Syntax::enable_should
         should_not: RSpec::Expectations::Syntax::enable_should
+
   RR:
     # add stub, mock, don't allow using verification strategy,
     # see: rr-0.10.0/lib/rr/double_definitions/strategies/verification/[stub.rb, mock.rb, dont_allow.rb]
@@ -188,6 +189,18 @@ dynamic_members:
         unstub!: RSpec::Mocks::Syntax::enable_should
         stub_chain: RSpec::Mocks::Syntax::enable_should
         received_message?: RSpec::Mocks::Syntax::enable_should
+    rspec-core >= 3.0.0:
+      instance_methods:
+        describe: RSpec::Core::ExampleGroup::self.define_example_group_method
+        context: RSpec::Core::ExampleGroup::self.define_example_group_method
+        example_group: RSpec::Core::ExampleGroup::self.define_example_group_method
+
+  RSpec:
+    rspec-core >= 3.0.0:
+      instance_methods:
+        describe: RSpec::Core::ExampleGroup::self.define_example_group_method
+        context: RSpec::Core::ExampleGroup::self.define_example_group_method
+        example_group: RSpec::Core::ExampleGroup::self.define_example_group_method
 
   RSpec:
     Matchers:

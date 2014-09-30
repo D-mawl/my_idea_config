@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <application>
-  <component name="NotificationConfiguration">
+  <component name="NotificationConfiguration" showBalloons="false">
     <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="Maven Import" displayType="STICKY_BALLOON" />
     <notification groupId="Android XML code style notification" shouldLog="false" />
+    <notification groupId="Built-in Web Server" displayType="STICKY_BALLOON" />
     <toolWindow group="Find in Path" />
     <toolWindow group="Common Version Control Messages" />
     <toolWindow group="HotSwap" />
@@ -12,6 +13,11 @@
     <toolWindow group="Debugger messages" />
     <toolWindow group="JavaEE" />
     <toolWindow group="Inspection Results" />
+    <toolWindow group="Analyze thread dump" />
+    <toolWindow group="Web Deployment: Remote Host" />
+    <toolWindow group="LiveEdit" />
+    <toolWindow group="JavaScript debugger" />
+    <toolWindow group="notification.group.id.gradle" />
   </component>
 </application>
 

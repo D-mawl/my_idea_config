@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="EclipseCodeFormatterSettings">
+    <option name="settingsList">
+      <list>
+        <Settings>
+          <option name="defaultSettings" value="true" />
+          <option name="formatOtherFileTypesWithIntelliJ" value="false" />
+          <option name="formatter" value="ECLIPSE" />
+          <option name="id" value="1409195037509" />
+          <option name="name" value="default" />
+          <option name="pathToConfigFileJava" value="E:/配置文件/codeformater.xml" />
+          <option name="selectedJavaProfile" value="SUGON" />
+        </Settings>
+      </list>
+    </option>
+  </component>
+</application>
+

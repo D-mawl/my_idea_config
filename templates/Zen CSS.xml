@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <templateSet group="Zen CSS">
   <template name="t" value="top:$VAR0$;" description="top:...;" toReformat="true" toShortenFQNames="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
@@ -7,4 +6,3 @@
     </context>
   </template>
 </templateSet>
-

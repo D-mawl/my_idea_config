@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="KeyPromoterConfiguration">
+    <option name="settings">
+      <KeyPromoterSettings>
+        <option name="displayTime" value="1000" />
+        <option name="proposeToCreateShortcutCount" value="0" />
+        <option name="toolWindowButtonsEnabled" value="false" />
+        <option name="toolbarButtonsEnabled" value="false" />
+        <option name="toolbarButtonsEnabled" value="false" />
+        <option name="toolWindowButtonsEnabled" value="false" />
+        <option name="displayTime" value="1000" />
+        <option name="proposeToCreateShortcutCount" value="0" />
+        <option name="fixedTipPosistion" value="true" />
+      </KeyPromoterSettings>
+    </option>
+  </component>
+</application>
+

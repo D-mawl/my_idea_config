@@ -2,6 +2,92 @@
   JRebel Changelog                    
 ********************************************
 
+5.6.3 (8th September 2014)
+
+Added support for Weblogic 12.1.3
+Added support for IceFaces 3.3.0
+Added support for Spring 4.1
+Added support for Jersey 2.11
+Added support for JAXB on Weblogic 12.x
+Fixed an issue where VM startup would hang when network interfaces status were unavailable
+Fixed an issue where custom Spring BeanFactory.getBean() returning null instead of throwing NoSuchBeanDefinitionException would cause JRebel to behave abnormally
+Fixed an issue where Weld beans.xml file paths containing spaces would not work and lead to FileNotFoundExceptions on Wildfly
+Fixed an issue where Weld application scoped beans were reloaded if session scoped bean reloads were triggered without a session
+Fixed an issue where WebDAV servlets would 404 when there was a <web> element defined in the rebel.xml file
+Fixed an issue where Resin classes were patched twice when running from watchdog without a custom java.system.class.loader being set, leading to CannotCompileExceptions
+Fixed an issue where Camel bean new methods were not detected during reload
+Fixed an issue where changes to @Controller annotations were not picked up correctly for Spring 4.0.6
+Enabled most framework plugins by default
+Various other stability and performance fixes
+
+
+5.6.2 (26th August 2014)
+
+Added support for new Reflection API methods in Java 8
+Fixed an issue where a 'java.lang.VerifyError: Bad <init> method call from inside of a branch' was thrown with JDK version 7u67 (and higher) and 8u11 (and higher)
+Fixed an issue where a 'java.lang.VerifyError: Operand stack overflow' was thrown in some cases when a class contained unreachable code
+Fixed an issue where a 'CannotCompileException: cannot find constructor org.jboss.ejb3.vfs.impl.vfs2.VirtualFileWrapper' was thrown on JBoss 5.2 EAP
+Fixed an issue where a deadlock would occur during startup with OpenJPA applications in some cases.
+Fixed an issue where EJB beans where not injected into WebServices on WAS 8.0.0.5
+Fixed an issue where a 'WELD-001318 Cannot resolve an ambiguous dependency' was thrown for applications using picketlink
+Fixed an issue where a 'WELD-001318 Cannot resolve an ambiguous dependency' was thrown for type MappingMetaData on Wildfly
+Fixed an issue where a 'java.lang.NoSuchFieldException: fieldCache' was thrown for applications using HK2 v2.3.0
+Fixed an issue where Magnolia MappedBean property definitions were not properly updated in some cases
+Fixed an issue where a 'ClassCastException: org.icefaces.impl.application.ReloadAfterNavigationFix' for applications using portletfaces-bridge 2.0.2
+Fixed an issue where a 'NotFoundException: org.codehaus.jackson.type.JavaType' was thrown for Jackson applications with missing jackson-core
+Fixed an issue with Weld2 where calling ObserverMethodImpl.getReceiver would return a concrete instance of the bean instead of a proxy, leading to missing aspects (transactions etc.)
+Fixed an issue with JRebel Remoting where a 'Could not regenerate proxy class '$Proxy133': java.lang.NegativeArraySizeException' would be thrown in some cases during synchronization
+Fixed an issue where adding a service method to a Jersey 2.10 resource endpoint would not work on Grizzly2 server
+Fixed an issue where a StackOverflowError was thrown during EJB loading in some cases on Weblogic 12.1.2
+Fixed an issue where language.properties hooks were not reloading on Liferay
+Fixed an issue where Spring's EhCacheManagerFactoryBean was reloaded incorrectly and this lead to 'Could not open Hibernate Session for transaction: org.hibernate.service.UnknownServiceException' to be thrown
+
+
+5.6.1 (23rd July 2014)
+
+Added support for JDK 8u11 and JDK 7u65
+Added support for Spring 4.0.6
+Added support for Picketlink
+Added support for jaxws-spring 1.9
+Added support for Jenkins plug-ins 1.554.1
+Improved Ejb support on JBoss7
+Improved WildFly 8 performance
+Fixed an issue for Spring properties when properties failed to load correctly.
+Fixed an issue for Spring when unknown ListableBeanFactory broke the application
+Fixed an issue with IceFaces 4 where headers got lost during reload
+
+
+5.6.0 (25th June 2014)
+
+Added support for Java 8 (lambdas, default methods, static interface methods etc.)
+Added support for EJBs on Wildfly
+Added support for Weld 2
+Added support for JSF 2.2 Faces Flows
+Added support for JSF 2.2 Resource Library Contracts
+Added support for Spring Security 3.2
+Added support for HK2
+Added support for Magnolia 5.1
+Added initial support for JBoss EAP 6.3.0-beta1
+Updated Hibernate support to version 4.3.5
+Updated Jackson support to version 1.8.10
+Various stability improvements for JBoss 6 EAP/JBoss 7/Wildfly EJB integration
+Fixed an issue where deploying multiple war applications in a single ear would not deploy on JBoss 7
+Fixed an issue where Axis2 Webservice endpoints were not reloaded on WAS
+Fixed an issue where META-INF/resources in rebel.xml <war> did not work properly
+Fixed an issue where using Guice ServletModule for initialization threw a com.google.inject.ConfigurationException
+Fixed an issue on Alfresco where changing alfresco-global.properties caused org.springframework.beans.factory.BeanCreationException to occur during reload
+Fixed an issue where java.lang.NullPointerException at java.util.prefs.FileSystemPreferences$1.run() could occur in rare cases during starup
+Fixed an issue with Grails 2.2.3 where the application would hang after a grails controller reload
+Fixed an issue where reloading EJBs on WAS 8.0.0.6 would cause the application to crash in rare cases
+Fixed an issue where a com.ibm.ws.asynchbeans.exception.AsynchBeanException:ASYN0064E would be thrown for WAS 8.5.5.1
+Fixed an issue where Struts session scoped objects were not reloaded on configuration change
+Fixed an issue where Spring property-placeholder properties were not reload correctly
+Fixed an issue where a CannotCompileException was thrown for log4j-over-slf4j-1.7.6.jar
+Fixed an issue where JSF @PostConstruct was called on already created instance when reloading class
+Fixed an issue where JRebel did not clean up its temporary directories properly after shutdown
+Fixed an issue where Akka 2.3.2 breaks CDI in GlassFish
+
+
 5.5.4 (27th May 2014)
 
 Added support for Wildfly 8.1

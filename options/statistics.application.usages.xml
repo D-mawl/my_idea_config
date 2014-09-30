@@ -2,156 +2,357 @@
 <application>
   <component name="StatisticsApplicationUsages">
     <group name="libraries">
-      <project id="WorkSpace" values="spring-mvc,EJB,spring" />
-      <project id="seeon" values="EJB,spring,spring-mvc" />
+      <project id="Seeon" values="spring,spring-mvc,EJB,hibernate" />
+      <project id="code5" values="spring-mvc,spring,hibernate" />
+      <project id="code2" values="hibernate,spring-mvc,spring" />
+      <project id="shf" values="hibernate,spring,EJB,spring-mvc" />
+      <project id="java" values="EJB" />
+      <project id="code4" values="hibernate,spring-mvc,spring" />
+      <project id="code3" values="hibernate,spring,EJB,spring-mvc" />
+      <project id="WorkSpace" values="spring,hibernate,EJB,spring-mvc" />
+      <project id="Seeon2" values="spring-mvc,spring,hibernate" />
+      <project id="code" values="spring-mvc,EJB,spring,hibernate" />
       <project id="WRP" values="spring-mvc,spring" />
+      <project id="seeon" values="EJB,spring-mvc,spring,hibernate" />
     </group>
     <group name="language-level">
-      <project id="jsonc_compare" values="JDK_1_6" />
+      <project id="cook" values="JDK_1_6" />
+      <project id="Seeon" values="JDK_1_6" />
+      <project id="portal" values="JDK_1_6" />
+      <project id="Wiz" values="JDK_1_6" />
       <project id="andriod" values="JDK_1_6" />
-      <project id="branch" values="JDK_1_6" />
-      <project id="WorkSpace" values="JDK_1_6" />
+      <project id="code" values="JDK_1_6" />
+      <project id="Seeon2" values="JDK_1_6" />
+      <project id="restaurant" values="JDK_1_6" />
       <project id="WRP" values="JDK_1_6" />
+      <project id="hibernate_demo" values="JDK_1_6" />
+      <project id="mysite" values="JDK_1_6" />
+      <project id="code5" values="JDK_1_6" />
+      <project id="jsonc_compare" values="JDK_1_6" />
+      <project id="code2" values="JDK_1_6" />
+      <project id="shf" values="JDK_1_6" />
+      <project id="branch" values="JDK_1_6" />
+      <project id="java" values="JDK_1_6" />
+      <project id="code4" values="JDK_1_6" />
+      <project id="code3" values="JDK_1_6" />
+      <project id="WorkSpace" values="JDK_1_6" />
+      <project id="fxImg" values="JDK_1_6" />
       <project id="seeon" values="JDK_1_6" />
       <project id="myapp" values="JDK_1_6" />
-      <project id="hibernate_demo" values="JDK_1_6" />
     </group>
     <group name="vcs">
-      <project id="branch" values="svn" />
-      <project id="WorkSpace" values="svn" />
-      <project id="seeon" values="svn" />
+      <project id="Seeon" values="svn" />
+      <project id="portal" values="svn" />
+      <project id="code" values="svn" />
+      <project id="Seeon2" values="svn" />
       <project id="hibernate_demo" values="Git" />
+      <project id="mysite" values="Git" />
+      <project id="code5" values="svn" />
+      <project id="code2" values="Git,svn" />
+      <project id="shf" values="svn" />
+      <project id="branch" values="svn" />
+      <project id="code4" values="svn" />
+      <project id="WorkSpace" values="svn" />
+      <project id="code3" values="svn" />
+      <project id="seeon" values="svn" />
     </group>
     <group name="frameworks">
+      <project id="cook" values="django" />
+      <project id="Seeon" values="Spring,web" />
       <project id="andriod" values="android" />
-      <project id="WorkSpace" values="Spring,web" />
-      <project id="seeon" values="web" />
+      <project id="code" values="web" />
+      <project id="Seeon2" values="web" />
+      <project id="restaurant" values="django" />
       <project id="WRP" values="web" />
+      <project id="mysite" values="django" />
+      <project id="code5" values="web" />
+      <project id="code2" values="web,django" />
+      <project id="shf" values="web" />
+      <project id="code4" values="web" />
+      <project id="java" values="web" />
+      <project id="WorkSpace" values="Spring,web" />
+      <project id="code3" values="web,JRebel" />
+      <project id="seeon" values="web" />
       <project id="myapp" values="android" />
     </group>
     <group name="jdbc-datasource">
-      <project id="WorkSpace" values="MySQL/5.5.5-10.0.10-MariaDB" />
+      <project id="Seeon" values="MySQL/5.5.5-10.0.10-MariaDB" />
+      <project id="code2" values="MySQL/5.5.5-10.0.10-MariaDB" />
+      <project id="shf" values="MySQL/5.5.5-10.0.10-MariaDB" />
+      <project id="code3" values="MySQL/5.5.5-10.0.10-MariaDB" />
+      <project id="code" values="MySQL/5.5.5-10.0.10-MariaDB" />
       <project id="hibernate_demo" values="MySQL/5.5.5-10.0.10-MariaDB" />
     </group>
     <group name="svn working copy format">
-      <project id="WorkSpace" values="1.7" />
-      <project id="seeon" values="1.7,1.7" />
+      <project id="code5" values="1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8" />
+      <project id="Seeon" values="1.8" />
+      <project id="portal" values="1.8" />
+      <project id="code2" values="1.8" />
+      <project id="shf" values="1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8" />
+      <project id="code3" values="1.8" />
+      <project id="WorkSpace" values="1.8" />
+      <project id="Seeon2" values="1.8" />
+      <project id="code" values="1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8" />
+      <project id="seeon" values="1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8" />
+    </group>
+    <group name="php-interpreters">
+      <project id="portal" values="0" />
+      <project id="code" values="0" />
     </group>
     <group name="spring">
-      <project id="WorkSpace" values="fileset_xmlContext,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/aop,fileset_configFiles5,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/aop,fileset_configFiles5,fileset_configFiles5,xmlNS_www.springframework.org/schema/tx,fileset_configFiles5,fileset_configFiles5,xmlNS_www.springframework.org/schema/context,fileset_xmlContext,fileset_configFiles5,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/mvc,fileset_configFiles5,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/tx,fileset_xmlContext,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/tx,fileset_xmlContext,xmlNS_www.springframework.org/schema/jdbc,fileset_xmlContext,xmlNS_www.springframework.org/schema/mvc,fileset_xmlContext,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/aop,fileset_xmlContext,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/aop,fileset_xmlContext,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/jdbc,fileset_xmlContext,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/context,fileset_configFiles5,fileset_xmlContext,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/context,fileset_configFiles5,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/context,fileset_configFiles5,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/mvc" />
+      <project id="Seeon" values="facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext" />
+      <project id="WorkSpace" values="xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/aop,fileset_configFiles5,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/jdbc,fileset_configFiles5,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/jdbc,fileset_xmlContext,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/aop,fileset_configFiles5,fileset_configFiles5,fileset_configFiles5,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/mvc,fileset_configFiles5,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/jdbc,fileset_xmlContext,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/mvc,fileset_xmlContext,fileset_configFiles5,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/context,fileset_configFiles5,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/aop,fileset_xmlContext,fileset_xmlContext,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/aop,fileset_xmlContext,xmlNS_www.springframework.org/schema/mvc,fileset_xmlContext,fileset_configFiles5,xmlNS_www.springframework.org/schema/jdbc,fileset_xmlContext,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/aop,fileset_xmlContext,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/tx,fileset_xmlContext,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/jdbc,fileset_configFiles5,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/mvc,fileset_xmlContext,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/aop,fileset_configFiles5" />
+    </group>
+    <group name="php-interpreter-version">
+      <project id="portal" values="not installed" />
+      <project id="code" values="not installed" />
     </group>
     <group name="run-configuration-type">
-      <project id="jsonc_compare" values="MavenRunConfiguration" />
-      <project id="WorkSpace" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
+      <project id="cook" values="Python.DjangoServer" />
+      <project id="Seeon" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
+      <project id="code" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local,JavascriptDebugType" />
+      <project id="Seeon2" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
+      <project id="restaurant" values="Python.DjangoServer" />
       <project id="WRP" values="JettyConfiguration.Local" />
-      <project id="seeon" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local,JettyConfiguration.Local" />
-      <project id="myapp" values="AndroidRunConfigurationType" />
       <project id="hibernate_demo" values="MavenRunConfiguration" />
+      <project id="mysite" values="Python.DjangoServer" />
+      <project id="jsonc_compare" values="MavenRunConfiguration" />
+      <project id="code2" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local,Python.DjangoServer" />
+      <project id="shf" values="JavascriptDebugType,#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
+      <project id="code4" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
+      <project id="java" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
+      <project id="WorkSpace" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
+      <project id="code3" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
+      <project id="fxImg" values="Application" />
+      <project id="seeon" values="JavascriptDebugType,#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
+      <project id="myapp" values="AndroidRunConfigurationType" />
     </group>
     <group name="module type">
-      <project id="jsonc_compare" values="JAVA_MODULE" />
+      <project id="cook" values="PYTHON_MODULE" />
+      <project id="Seeon" values="JAVA_MODULE,PYTHON_MODULE" />
+      <project id="portal" values="JAVA_MODULE" />
+      <project id="Wiz" values="JAVA_MODULE" />
       <project id="andriod" values="JAVA_MODULE" />
-      <project id="branch" values="JAVA_MODULE" />
-      <project id="WorkSpace" values="JAVA_MODULE" />
+      <project id="code" values="JAVA_MODULE" />
+      <project id="Seeon2" values="JAVA_MODULE" />
+      <project id="restaurant" values="PYTHON_MODULE" />
       <project id="WRP" values="JAVA_MODULE" />
+      <project id="hibernate_demo" values="JAVA_MODULE" />
+      <project id="mysite" values="PYTHON_MODULE" />
+      <project id="code5" values="JAVA_MODULE" />
+      <project id="jsonc_compare" values="JAVA_MODULE" />
+      <project id="code2" values="PYTHON_MODULE,JAVA_MODULE" />
+      <project id="shf" values="JAVA_MODULE" />
+      <project id="branch" values="JAVA_MODULE" />
+      <project id="java" values="JAVA_MODULE" />
+      <project id="code4" values="JAVA_MODULE" />
+      <project id="code3" values="JAVA_MODULE" />
+      <project id="WorkSpace" values="JAVA_MODULE" />
+      <project id="fxImg" values="JAVA_MODULE" />
       <project id="seeon" values="JAVA_MODULE" />
       <project id="myapp" values="JAVA_MODULE" />
-      <project id="hibernate_demo" values="JAVA_MODULE" />
+    </group>
+    <group name="php-servers">
+      <project id="portal" values="0" />
+      <project id="code" values="0" />
+    </group>
+    <group name="php-include-path">
+      <project id="portal" values="0" />
+      <project id="code" values="0" />
     </group>
     <group name="file-type">
-      <project id="jsonc_compare" values="XML,UNKNOWN,JAVA,IDEA_MODULE" />
-      <project id="andriod" values="JAVA,IDEA_MODULE,XML,UNKNOWN" />
-      <project id="branch" values="Manifest,IDEA_MODULE,Native,JAVA,CSS,JSON,XML,Properties,JavaScript,JSP,Images,UNKNOWN,LESS,SQL,HTML" />
-      <project id="WorkSpace" values="JavaScript,XML,JAVA,SQL,SourceMap,CSS,JSON,Images,Eclipse,UNKNOWN,Native,Properties,HTML,PLAIN_TEXT,Manifest" />
-      <project id="WRP" values="XML,HTML,UNKNOWN,JAVA,IDEA_MODULE" />
-      <project id="seeon" values="Properties,CSS,LESS,Native,HTML,JavaScript,UNKNOWN,XML,JSP,Manifest,JAVA,JSON,SQL,Images" />
-      <project id="myapp" values="IDEA_MODULE,XML,PLAIN_TEXT,UNKNOWN,Images,Properties,JAVA" />
-      <project id="hibernate_demo" values="JAVA,IDEA_MODULE,UNKNOWN,XML" />
+      <project id="cook" values="UNKNOWN,Python,XML,HTML" />
+      <project id="Seeon" values="Manifest,SQL,JavaScript,CSS,Python,JSP,HTML,Native,XML,Images,Properties,JAVA,UNKNOWN,PLAIN_TEXT,JSON" />
+      <project id="portal" values="HTML,XML,CSS,PHP,UNKNOWN,SQL,Images,PLAIN_TEXT,JavaScript,SCSS" />
+      <project id="Wiz" values="CLASS,UNKNOWN,Native,HTML,PLAIN_TEXT,ARCHIVE,XML,JAVA,Manifest" />
+      <project id="andriod" values="JAVA,UNKNOWN,XML,IDEA_MODULE" />
+      <project id="code" values="Properties,SourceMap,JavaScript,JSON,Images,HTML,UNKNOWN,JSP,PLAIN_TEXT,Native,XML,SQL,CSS,JAVA" />
+      <project id="Seeon2" values="XML,Native,Properties,Manifest,UNKNOWN,PLAIN_TEXT,Images,JAVA" />
+      <project id="restaurant" values="XML,UNKNOWN,Python,HTML" />
+      <project id="WRP" values="HTML,UNKNOWN,JAVA,IDEA_MODULE,XML" />
+      <project id="hibernate_demo" values="IDEA_MODULE,JAVA,XML,UNKNOWN" />
+      <project id="mysite" values="HTML,UNKNOWN,XML,SQLite Database,Python" />
+      <project id="code5" values="PLAIN_TEXT,UNKNOWN,Properties,Images,CSS,JSON,SourceMap,SQL,JAVA,Native,JSP,HTML,JavaScript,XML" />
+      <project id="jsonc_compare" values="UNKNOWN,JAVA,IDEA_MODULE,XML" />
+      <project id="code2" values="XML,JavaScript,JSP,Native,Python,SQL,CSS,PLAIN_TEXT,JAVA,Properties,HTML,JSON,Manifest,UNKNOWN,Images" />
+      <project id="shf" values="SQL,Images,XML,SourceMap,Native,JAVA,JavaScript,PLAIN_TEXT,JSP,UNKNOWN,CSS,JSON,HTML,Properties" />
+      <project id="branch" values="UNKNOWN,CSS,Images,Manifest,IDEA_MODULE,SQL,JavaScript,XML,LESS,JSON,JSP,HTML,Native,JAVA,Properties" />
+      <project id="java" values="ARCHIVE,JSP,Images,CLASS,UNKNOWN,XML,JAVA" />
+      <project id="code4" values="JSON,SQL,Properties,CSS,JAVA,JSP,Native,Manifest,XML,UNKNOWN,Images,PLAIN_TEXT,HTML,JavaScript" />
+      <project id="code3" values="Manifest,SQL,JSP,Images,PLAIN_TEXT,CSS,Native,UNKNOWN,XML,Properties,JavaScript,HTML,JAVA,JSON" />
+      <project id="WorkSpace" values="Images,HTML,Properties,PLAIN_TEXT,JSON,UNKNOWN,SourceMap,CSS,Manifest,JavaScript,XML,JAVA" />
+      <project id="fxImg" values="JAVA,Manifest,ARCHIVE,XML,UNKNOWN,HTML" />
+      <project id="seeon" values="XML,SQL,SourceMap,JSP,JavaScript,Native,HTML,JAVA,Properties,UNKNOWN,PLAIN_TEXT,JSON,Images,CSS" />
+      <project id="myapp" values="JAVA,XML,IDEA_MODULE,Properties,Images,PLAIN_TEXT,UNKNOWN" />
     </group>
     <group name="run-configuration-type-temp">
+      <project id="cook" values="PythonConfigurationType" />
+      <project id="mysite" values="DjangoTestsConfigurationType" />
+      <project id="Seeon" values="PythonConfigurationType" />
+      <project id="Wiz" values="Application" />
       <project id="jsonc_compare" values="JUnit" />
       <project id="andriod" values="GroovyScriptRunConfiguration,AndroidRunConfigurationType" />
+      <project id="code2" values="DjangoTestsConfigurationType" />
+      <project id="shf" values="Unknown" />
+      <project id="code3" values="Application" />
+      <project id="code" values="GroovyScriptRunConfiguration" />
+      <project id="restaurant" values="DjangoTestsConfigurationType,PythonConfigurationType" />
+      <project id="fxImg" values="Application" />
+      <project id="seeon" values="Application,Unknown" />
       <project id="hibernate_demo" values="JUnit" />
     </group>
+    <group name="javaScript Scope Usages">
+      <project id="cook" values="Project,Project" />
+      <project id="Seeon" values="Project,Project" />
+      <project id="portal" values="Project,Project" />
+      <project id="Wiz" values="Project,Project" />
+      <project id="andriod" values="Project,Project" />
+      <project id="code" values="Project,Project" />
+      <project id="Seeon2" values="Project,Project" />
+      <project id="restaurant" values="Project,Project" />
+      <project id="WRP" values="Project,Project" />
+      <project id="hibernate_demo" values="Project,Project" />
+      <project id="mysite" values="Project,Project" />
+      <project id="code5" values="Project,Project" />
+      <project id="jsonc_compare" values="Project,Project" />
+      <project id="code2" values="Project,Project" />
+      <project id="shf" values="Project,Project" />
+      <project id="branch" values="Project,Project" />
+      <project id="java" values="Project,Project" />
+      <project id="code4" values="Project,Project" />
+      <project id="code3" values="Project,Project" />
+      <project id="WorkSpace" values="Project,Project" />
+      <project id="fxImg" values="Project,Project" />
+      <project id="seeon" values="Project,Project" />
+      <project id="myapp" values="Project,Project" />
+    </group>
+    <group name="php-debug-skipped-paths">
+      <project id="portal" values="0" />
+      <project id="code" values="0" />
+    </group>
     <group name="jdbc-driver">
+      <project id="Seeon" values="com.mysql.jdbc.Driver" />
+      <project id="code2" values="com.mysql.jdbc.Driver,org.sqlite.JDBC" />
+      <project id="shf" values="com.mysql.jdbc.Driver" />
+      <project id="code" values="com.mysql.jdbc.Driver" />
       <project id="WorkSpace" values="com.mysql.jdbc.Driver" />
+      <project id="code3" values="com.mysql.jdbc.Driver" />
+      <project id="seeon" values="com.mysql.jdbc.Driver" />
       <project id="hibernate_demo" values="com.mysql.jdbc.Driver" />
     </group>
     <group name="JavaScript versions">
-      <project id="jsonc_compare" values="DEFAULT" />
+      <project id="cook" values="DEFAULT" />
+      <project id="Seeon" values="DEFAULT" />
+      <project id="portal" values="DEFAULT" />
+      <project id="Wiz" values="DEFAULT" />
       <project id="andriod" values="DEFAULT" />
-      <project id="branch" values="DEFAULT" />
-      <project id="WorkSpace" values="DEFAULT" />
+      <project id="code" values="DEFAULT" />
+      <project id="Seeon2" values="DEFAULT" />
+      <project id="restaurant" values="DEFAULT" />
       <project id="WRP" values="DEFAULT" />
+      <project id="hibernate_demo" values="DEFAULT" />
+      <project id="mysite" values="DEFAULT" />
+      <project id="code5" values="DEFAULT" />
+      <project id="jsonc_compare" values="DEFAULT" />
+      <project id="code2" values="DEFAULT" />
+      <project id="shf" values="DEFAULT" />
+      <project id="branch" values="DEFAULT" />
+      <project id="java" values="DEFAULT" />
+      <project id="code4" values="DEFAULT" />
+      <project id="code3" values="DEFAULT" />
+      <project id="WorkSpace" values="DEFAULT" />
+      <project id="fxImg" values="DEFAULT" />
       <project id="seeon" values="DEFAULT" />
       <project id="myapp" values="DEFAULT" />
-      <project id="hibernate_demo" values="DEFAULT" />
     </group>
-    <group name="javaScript Scope Usages">
-      <project id="jsonc_compare" values="Project,Project" />
-      <project id="andriod" values="Project,Project" />
-      <project id="branch" values="Project,Project" />
-      <project id="WorkSpace" values="Project,Project" />
-      <project id="WRP" values="Project,Project" />
-      <project id="seeon" values="Project,Project" />
-      <project id="myapp" values="Project,Project" />
-      <project id="hibernate_demo" values="Project,Project" />
+    <group name="py-interpreter">
+      <project id="cook" values="Python 3.4.1" />
+      <project id="mysite" values="Python 3.4.1" />
+      <project id="code2" values="Python 3.4.1" />
     </group>
   </component>
   <component name="UsageTrigger">
     <counts>
-      <entry feature="CreateFile.CreateFileAction" count="3" />
-      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Debug" count="2" />
-      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.JRebel Debug" count="114" />
-      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.JRebel Executor" count="7" />
-      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Run" count="32" />
+      <entry feature="CreateFile.CreateFileAction" count="7" />
+      <entry feature="CreateFile.CreateSpringConfigAction" count="1" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Debug" count="8" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.JRebel Debug" count="1065" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.JRebel Executor" count="16" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Run" count="50" />
       <entry feature="execute.AndroidRunConfigurationType.Run" count="14" />
-      <entry feature="execute.Application.Debug" count="3" />
-      <entry feature="execute.GroovyScriptRunConfiguration.Run" count="4" />
+      <entry feature="execute.Application.Debug" count="14" />
+      <entry feature="execute.Application.Run" count="85" />
+      <entry feature="execute.DjangoTestsConfigurationType.Run" count="6" />
+      <entry feature="execute.GradleRunConfiguration.Run" count="13" />
+      <entry feature="execute.GroovyScriptRunConfiguration.Run" count="7" />
       <entry feature="execute.JUnit.Debug" count="1" />
       <entry feature="execute.JUnit.JRebel Debug" count="1" />
       <entry feature="execute.JUnit.Run" count="37" />
-      <entry feature="execute.JettyConfiguration.JRebel Debug" count="5" />
+      <entry feature="execute.JavascriptDebugType.Debug" count="32" />
+      <entry feature="execute.JavascriptDebugType.Run" count="1" />
+      <entry feature="execute.JettyConfiguration.JRebel Debug" count="6" />
       <entry feature="execute.JettyConfiguration.JRebel Executor" count="2" />
       <entry feature="execute.JettyConfiguration.Run" count="2" />
       <entry feature="execute.MavenRunConfiguration.Run" count="6" />
-      <entry feature="execute.RubyRunConfigurationType.JRebel Debug" count="2" />
-      <entry feature="execute.RubyRunConfigurationType.Run" count="6" />
-      <entry feature="ide.settings.Appearance" count="6" />
+      <entry feature="execute.Python.DjangoServer.Debug" count="8" />
+      <entry feature="execute.Python.DjangoServer.Run" count="79" />
+      <entry feature="execute.PythonConfigurationType.JRebel Debug" count="2" />
+      <entry feature="execute.PythonConfigurationType.Run" count="22" />
+      <entry feature="execute.RubyRunConfigurationType.JRebel Debug" count="6" />
+      <entry feature="execute.RubyRunConfigurationType.Run" count="43" />
+      <entry feature="ide.settings.Appearance" count="19" />
       <entry feature="ide.settings.Application&#10;Servers" count="1" />
       <entry feature="ide.settings.Auto_Import" count="1" />
-      <entry feature="ide.settings.CheckStyle" count="10" />
+      <entry feature="ide.settings.BrowseWordAtCaret" count="2" />
+      <entry feature="ide.settings.CheckStyle" count="17" />
       <entry feature="ide.settings.Code_Completion" count="1" />
       <entry feature="ide.settings.Code_Folding" count="1" />
       <entry feature="ide.settings.Code_Style" count="4" />
-      <entry feature="ide.settings.Colors_&amp;_Fonts" count="6" />
-      <entry feature="ide.settings.Confirmation" count="1" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="28" />
+      <entry feature="ide.settings.Compiler" count="2" />
+      <entry feature="ide.settings.Confirmation" count="6" />
+      <entry feature="ide.settings.Console_Colors" count="4" />
+      <entry feature="ide.settings.Data_Views" count="1" />
       <entry feature="ide.settings.Debugger" count="1" />
-      <entry feature="ide.settings.Editor" count="1" />
-      <entry feature="ide.settings.Editor_Tabs" count="1" />
-      <entry feature="ide.settings.File_Types" count="2" />
-      <entry feature="ide.settings.File_and_Code_Templates" count="7" />
-      <entry feature="ide.settings.Font" count="3" />
-      <entry feature="ide.settings.General" count="5" />
-      <entry feature="ide.settings.HTML" count="2" />
-      <entry feature="ide.settings.Ignored_Files" count="3" />
-      <entry feature="ide.settings.Importing" count="1" />
-      <entry feature="ide.settings.Inspections" count="4" />
-      <entry feature="ide.settings.Java" count="4" />
-      <entry feature="ide.settings.JavaDoc" count="10" />
-      <entry feature="ide.settings.Java_Compiler" count="1" />
+      <entry feature="ide.settings.Eclipse&#10;Code_Formatter" count="1" />
+      <entry feature="ide.settings.Editor" count="2" />
+      <entry feature="ide.settings.Editor_Tabs" count="2" />
+      <entry feature="ide.settings.Excludes" count="2" />
+      <entry feature="ide.settings.File_Encodings" count="2" />
+      <entry feature="ide.settings.File_Types" count="5" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="8" />
+      <entry feature="ide.settings.Font" count="21" />
+      <entry feature="ide.settings.General" count="19" />
+      <entry feature="ide.settings.Gradle" count="1" />
+      <entry feature="ide.settings.HTML" count="5" />
+      <entry feature="ide.settings.Ignored_Files" count="9" />
+      <entry feature="ide.settings.Importing" count="2" />
+      <entry feature="ide.settings.Inspections" count="18" />
+      <entry feature="ide.settings.JSP" count="1" />
+      <entry feature="ide.settings.Java" count="13" />
+      <entry feature="ide.settings.JavaDoc" count="11" />
+      <entry feature="ide.settings.JavaScript" count="2" />
+      <entry feature="ide.settings.Java_Compiler" count="7" />
       <entry feature="ide.settings.Jindent_-_Source_Code_Formatter" count="2" />
-      <entry feature="ide.settings.Keymap" count="3" />
-      <entry feature="ide.settings.Live_Templates" count="14" />
-      <entry feature="ide.settings.Maven" count="3" />
-      <entry feature="ide.settings.Plugins" count="3" />
+      <entry feature="ide.settings.KeyPromoter" count="3" />
+      <entry feature="ide.settings.Keymap" count="4" />
+      <entry feature="ide.settings.Language_Defaults" count="2" />
+      <entry feature="ide.settings.Live_Templates" count="26" />
+      <entry feature="ide.settings.Maven" count="9" />
+      <entry feature="ide.settings.Plugins" count="13" />
+      <entry feature="ide.settings.Repositories" count="1" />
       <entry feature="ide.settings.Runner" count="1" />
       <entry feature="ide.settings.Smart_Keys" count="1" />
       <entry feature="ide.settings.Subversion" count="2" />
+      <entry feature="ide.settings.Updates" count="1" />
       <entry feature="ide.settings.Validation" count="1" />
-      <entry feature="ide.settings.Version_Control" count="1" />
-      <entry feature="ideaapp.started" count="5" />
-      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="299" />
+      <entry feature="ide.settings.Version_Control" count="2" />
+      <entry feature="ide.settings.Web_Browsers" count="1" />
+      <entry feature="idea.caches.invalidated" count="4" />
+      <entry feature="ideaapp.started" count="186" />
+      <entry feature="spring.ModelRelatedProvider" count="5" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="9091" />
+      <entry feature="tips.of.the.day.next" count="22" />
     </counts>
   </component>
 </application>

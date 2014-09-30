@@ -1,16 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <keymap version="1" name="Default copy" parent="$default">
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt SLASH" />
   </action>
-  <action id="EditorDeleteLine">
-    <keyboard-shortcut first-keystroke="control Y" />
-    <keyboard-shortcut first-keystroke="shift control X" />
+  <action id="Debug" />
+  <action id="EditorBackSpace">
+    <keyboard-shortcut first-keystroke="shift BACK_SPACE" />
   </action>
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="shift control D" />
   </action>
+  <action id="EditorHungryBackSpace">
+    <keyboard-shortcut first-keystroke="BACK_SPACE" />
+  </action>
   <action id="HippieCompletion" />
+  <action id="Images.Thumbnails.UpFolder" />
+  <action id="JRebel Debug">
+    <keyboard-shortcut first-keystroke="shift F9" />
+  </action>
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="alt SLASH" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt ENTER" />
   </action>
@@ -27,4 +36,3 @@
     <keyboard-shortcut first-keystroke="shift alt UP" />
   </action>
 </keymap>
-

@@ -1,7 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <code_scheme name="SUGON">
   <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="50" />
   <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="30" />
+  <option name="IMPORT_LAYOUT_TABLE">
+    <value>
+      <package name="java" withSubpackages="true" static="false" />
+      <emptyLine />
+      <package name="javax" withSubpackages="true" static="false" />
+      <emptyLine />
+      <package name="org" withSubpackages="true" static="false" />
+      <emptyLine />
+      <package name="" withSubpackages="true" static="false" />
+      <emptyLine />
+      <package name="" withSubpackages="true" static="true" />
+    </value>
+  </option>
   <option name="RIGHT_MARGIN" value="100" />
   <option name="ENABLE_JAVADOC_FORMATTING" value="false" />
   <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
@@ -9,6 +21,8 @@
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
   <codeStyleSettings language="JAVA">
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
@@ -48,8 +62,6 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
-    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="PARENT_SETTINGS_INSTALLED" value="true" />
   </codeStyleSettings>
 </code_scheme>
-

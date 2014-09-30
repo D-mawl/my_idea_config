@@ -25,3 +25,13 @@ and follow the instructions displayed in the Usage.
 For the simplest case (enabling JRebel for Tomcat for example), run:
 
 bin/setup.{cmd|sh} -r "path/to/tomcat/installation/directory"
+
+
+Further information
+===================
+
+JRebel Reference Manual:
+http://manuals.zeroturnaround.com/jrebel/
+
+JRebel Learn Center
+http://zeroturnaround.com/software/jrebel/learn/
